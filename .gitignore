@@ -1,0 +1,4 @@
+.vscode/
+chromedriver
+*.sqlite3
+*.pyc
